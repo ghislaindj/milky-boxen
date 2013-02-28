@@ -36,9 +36,17 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "zsh", "1.0.0"
+github "iterm2", "1.0.0"
+github "sublime_text_2", "1.0.0"
 github "imagemagick", "1.1.0"
 github "dropbox", "1.0.0"
-github "python", 1.0.1
-github "mongodb", 1.0.0
-github "mysql", 1.0.0
-
+github "python", "1.0.1"
+github "mongodb", "1.0.0"
+github "mysql", "1.0.0"
+github "chrome", "1.0.0
+github "onepassword", "1.0.0"
+github "spotify", "1.0.0"
+github "flux", "0.0.1"
+github "elasticsearch", "1.0.0"
