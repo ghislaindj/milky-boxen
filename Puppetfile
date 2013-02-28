@@ -36,3 +36,9 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "imagemagick", "1.1.0"
+github "dropbox", "1.0.0"
+github "python", 1.0.1
+github "mongodb", 1.0.0
+github "mysql", 1.0.0
+
