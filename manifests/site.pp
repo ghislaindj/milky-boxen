@@ -73,14 +73,14 @@ node default {
   include ruby::1-9-3
 
   # Custom
-include zsh
-include iterm2
-include sublime_text_2
-include imagemagick
-include dropbox
-include python
-include mongodb
-include mysql
+  include zsh
+  include iterm2::stable
+  include sublime_text_2
+  include imagemagick
+  include dropbox
+  include python
+  include mongodb
+  include mysql
 include chrome
 include onepassword
 include spotify

@@ -34,6 +34,11 @@ github "ruby",     "1.0.0"
 github "stdlib",   "3.0.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",     "1.0.0"
 
+# FIX
+github "osx", "1.0.0"
+github "xquartz", "1.0.0"
+github "java", "1.0.0"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
@@ -45,7 +50,7 @@ github "dropbox", "1.0.0"
 github "python", "1.0.1"
 github "mongodb", "1.0.0"
 github "mysql", "1.0.0"
-github "chrome", "1.0.0
+github "chrome", "1.0.0"
 github "onepassword", "1.0.0"
 github "spotify", "1.0.0"
 github "flux", "0.0.1"
